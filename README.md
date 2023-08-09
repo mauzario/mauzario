@@ -1,18 +1,14 @@
 <head>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+![Capa](https://github.com/mauzario/mauzario/blob/main/media/Capa.jpg)
 
 </head>
 
-<!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
-<img src="/media/1.png">
+
 <h1 align="center">Hi 👋, I'm Maurício</h1>
 <h4 align="center">Oi 👋, Eu sou o Maurício</h4>
 <p align="center">
-<!--<a href="https://blog.advaith.co/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
+
 </p>
 
 <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">
@@ -46,17 +42,28 @@
 ----
 
 
-## Maurício
+<h2 align="center">Minhas contribuições</h2> 
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mauzario&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauzario&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=mauzario&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauzario&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="right" height="250" alt="coding-time" src="code.gif">
+    
+<br>
 
-
+<div class="container">
+  <div class="bloco1">
+    <p>
+    <img src="https://github.com/mauzario/mauzario/blob/main/media/ELECTRONIC%20BRAIN.gif" alt="GIF do Cérebro" align="left" >
+          </p>  
+  </div>
+  <div class="bloco2">
+    <p> </p>
+  </div>
+</div>
