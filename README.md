@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Maurício</h1>
-<h4 align="center">Oi 👋, Eu sou o Maurício</h4>
+
 <p align="center">
 
 </p>
@@ -16,16 +16,13 @@
 
 <!--<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>-->
 
+<p>I am an avid enthusiast of Machine Learning and Artificial Intelligence, consistently driven to tackle new challenges. My passion for learning is evident in the determination with which I delve into intricate algorithms, always seeking to broaden my perspectives. I adopt a pragmatic approach, applying my knowledge to tangible projects, spanning from hardware integration to scripts, showcasing my creativity in problem-solving and inspiring others with my infectious enthusiasm..</p>
 
-<p>I am a people person and love being part of communities. <strong>I had the honor of being a Microsoft Learn Student Ambassador and Developer Student Clubs Lead in my college, thus empowering students by providing learning opportunities and mentorship.</strong>If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.</p>
-
-🕸️ I'm interested in Web development.
-
-❓ Ask me about Python, Java and Community Building
+🕸️ I'm interested in Data Science and python projects.
 
 📖 I'm currently learning Django
 
-🤝 I'm looking to collaborate on any open source projects using Python
+🤝 I'm looking to collaborate on any open source projects using Python and C
 
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
@@ -42,7 +39,7 @@
 ----
 
 
-<h2 align="center">Minhas contribuições</h2> 
+<h2 align="center">My stats</h2> 
 
 <div>
   
