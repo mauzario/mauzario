@@ -5,7 +5,7 @@
 </head>
 
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Aloha 👋</h1>
 
 <p align="center">
 
